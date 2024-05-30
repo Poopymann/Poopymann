@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Poopymann
-- 👀 I’m interested in learing and coding  
+- 👀 I’m interested in learning and coding  
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything you feel you need help with we can learn more together. Im always open to projects
 - 📫 How to reach me hitme up on Github
